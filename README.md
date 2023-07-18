@@ -1,1 +1,1 @@
-# project-1
+This is the shopping website .this is the frontend of the website and it is also a responsive website which attractes more users to visit these website. For making these website i used HTML,CSS and JAVASCRIPT for dynamically interaction.
